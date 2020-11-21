@@ -18,7 +18,7 @@ setup(
     platforms='any',
     python_requires='>=3.4',
     install_requires=[
-        'fret>=0.3.2',
+        'fret>=0.3.3',
         'torch>=1.0.0'
     ],
     classifiers=[
